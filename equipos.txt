@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "nombre": "Tigres FC",
+    "ciudad": "Bogotá",
+    "año": 2023
+  },
+  {
+    "_id": 2,
+    "nombre": "Rayos de Medellín",
+    "ciudad": "Medellín",
+    "año": 2023
+  },
+  {
+    "_id": 3,
+    "nombre": "Atlético Costeños",
+    "ciudad": "Barranquilla",
+    "año": 2023
+  },
+  {
+    "_id": 4,
+    "nombre": "Cafeteros FC",
+    "ciudad": "Manizales",
+    "año": 2023
+  },
+  {
+    "_id": 5,
+    "nombre": "Pacífico United",
+    "ciudad": "Cali",
+    "año": 2023
+  }
+]

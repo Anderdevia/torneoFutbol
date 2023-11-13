@@ -1,0 +1,57 @@
+[
+	{
+	  "_id": 1,
+	  "Cedula": 1002345678,
+	  "Nombres": "Juan Roberto",
+	  "Celular": {
+		"$numberLong": "3227324579"
+	  },
+	  "Apellidos": "Parra Perez",
+	  "Edad": 36,
+	  "Nacionalidad": "Argentino"
+	},
+	{
+	  "_id": 2,
+	  "Cedula": 1203456789,
+	  "Nombres": "María Fernanda",
+	  "Celular": {
+		"$numberLong": "3112233445"
+	  },
+	  "Apellidos": "Merchan Martínez",
+	  "Edad": 40,
+	  "Nacionalidad": "Colombiana"
+	},
+	{
+	  "_id": 3,
+	  "Cedula": 1304567890,
+	  "Nombres": "Humberto",
+	  "Celular": {
+		"$numberLong": "3009876543"
+	  },
+	  "Apellidos": "López Rodríguez",
+	  "Edad": 38,
+	  "Nacionalidad": "Mexicana"
+	},
+	{
+	  "_id": 4,
+	  "Cedula": 1405678901,
+	  "Nombres": "Edison",
+	  "Celular": {
+		"$numberLong": "3156789012"
+	  },
+	  "Apellidos": "Díaz Sánchez",
+	  "Edad": 35,
+	  "Nacionalidad": "Española"
+	},
+	{
+	  "_id": 5,
+	  "Cedula": 1506789012,
+	  "Nombres": "Gerardo",
+	  "Celular": {
+		"$numberLong": "3187654321"
+	  },
+	  "Apellidos": "Ramírez Gómez",
+	  "Edad": 37,
+	  "Nacionalidad": "Colombiano"
+	}
+]

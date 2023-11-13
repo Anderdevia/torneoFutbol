@@ -1,0 +1,383 @@
+[
+	{
+	  "_id": 1,
+	  "Cedula": 1002345678,
+	  "Nombres": "Jorge Andres",
+	  "Apellidos": "Parra Perez",
+	  "Celular": {
+		"$numberLong": "3227324579"
+	  },
+	  "Edad": 36,
+	  "Nacionalidad": "Argentino",
+	  "Equipo": "Tigres FC",
+	  "Ciudad": "Bogotá",
+	  "Año": 2023
+	},
+		{
+	  "_id": 2,
+	  "Cedula": 1607890123,
+	  "Nombres": "Luis Alejandro",
+	  "Apellidos": "Perea Gutierrez",
+	  "Celular": {
+		"$numberLong": "3203523444"
+	  },
+	  "Edad": 25,
+	  "Nacionalidad": "Colombiano",
+	  "Equipo": "Tigres FC",
+	  "Ciudad": "Manizales",
+	  "Año": 2023
+	},
+		{
+	  "_id": 3,
+	  "Cedula": 1708901234,
+	  "Nombres": "Rodrigo",
+	  "Apellidos": "Gómez López",
+	  "Celular": {
+		"$numberLong": "3276543210"
+	  },
+	  "Edad": 28,
+	  "Nacionalidad": "Ecuatoriana",
+	  "Equipo": "Tigres FC",
+	  "Ciudad": "Bogotá",
+	  "Año": 2023
+	},
+		{
+	  "_id": 4,
+	  "Cedula": 1203456789,
+	  "Nombres": "Carlos Fernando",
+	  "Apellidos": "González Martínez",
+	  "Celular": {
+		"$numberLong": "3112233445"
+	  },
+	  "Edad": 40,
+	  "Nacionalidad": "Colombiana",
+	  "Equipo": "Tigres FC",
+	  "Ciudad": "Medellín",
+	  "Año": 2023
+	},
+		{
+	  "_id": 5,
+	  "Cedula": 1809012345,
+	  "Nombres": "Andrés",
+	  "Apellidos": "Torres Soto",
+	  "Celular": {
+		"$numberLong": "3339876543"
+	  },
+	  "Edad": 32,
+	  "Nacionalidad": "Colombiano",
+	  "Equipo": "Tigres FC",
+	  "Ciudad": "Medellín",
+	  "Año": 2023
+	},
+	{
+	  "_id": 6,
+	  "Cedula": {
+		"$numberLong": "2204567890"
+	  },
+	  "Nombres": "Sergio",
+	  "Apellidos": "González Ramírez",
+	  "Celular": {
+		"$numberLong": "3675432109"
+	  },
+	  "Edad": 30,
+	  "Nacionalidad": "Colombiano",
+	  "Equipo": "Rayos de Medellín",
+	  "Ciudad": "Medellín",
+	  "Año": 2023
+	},
+	{
+	  "_id": 7,
+	  "Cedula": 1304567890,
+	  "Nombres": "Cristian",
+	  "Apellidos": "López Rodríguez",
+	  "Celular": {
+		"$numberLong": "3009876543"
+	  },
+	  "Edad": 38,
+	  "Nacionalidad": "Mexicana",
+	  "Equipo": "Rayos de Medellín",
+	  "Ciudad": "Barranquilla",
+	  "Año": 2023
+	},
+	{
+	  "_id": 8,
+	  "Cedula": 1901234567,
+	  "Nombres": "Mario",
+	  "Apellidos": "Ramírez Vargas",
+	  "Celular": {
+		"$numberLong": "3348765432"
+	  },
+	  "Edad": 27,
+	  "Nacionalidad": "Venezolana",
+	  "Equipo": "Rayos de Medellín",
+	  "Ciudad": "Barranquilla",
+	  "Año": 2023
+	},
+	{
+	  "_id": 9,
+	  "Cedula": {
+		"$numberLong": "2305678901"
+	  },
+	  "Nombres": "Manuel",
+	  "Apellidos": "Bernal Casallas",
+	  "Celular": {
+		"$numberLong": "3784321098"
+	  },
+	  "Edad": 26,
+	  "Nacionalidad": "Ecuatoriana",
+	  "Equipo": "Rayos de Medellín",
+	  "Ciudad": "Barranquilla",
+	  "Año": 2023
+	},
+	{
+	  "_id": 10,
+	  "Cedula": 1405678901,
+	  "Nombres": "Maikol",
+	  "Apellidos": "Díaz Sánchez",
+	  "Celular": {
+		"$numberLong": "3156789012"
+	  },
+	  "Edad": 35,
+	  "Nacionalidad": "Española",
+	  "Equipo": "Rayos de Medellín",
+	  "Ciudad": "Manizales",
+	  "Año": 2023
+	},
+	{
+	  "_id": 11,
+	  "Cedula": {
+		"$numberLong": "2406789012"
+	  },
+	  "Nombres": "Diego",
+	  "Apellidos": "Ramírez López",
+	  "Celular": {
+		"$numberLong": "3893210987"
+	  },
+	  "Edad": 33,
+	  "Nacionalidad": "Colombiano",
+	  "Equipo": "Atlético Costeños",
+	  "Ciudad": "Manizales",
+	  "Año": 2023
+	},
+	{
+	  "_id": 12,
+	  "Cedula": 1506789012,
+	  "Nombres": "Carlos",
+	  "Apellidos": "Ramírez Gómez",
+	  "Celular": {
+		"$numberLong": "3187654321"
+	  },
+	  "Edad": 37,
+	  "Nacionalidad": "Colombiano",
+	  "Equipo": "Atlético Costeños",
+	  "Ciudad": "Cali",
+	  "Año": 2023
+	},
+	{
+	  "_id": 13,
+	  "Cedula": {
+		"$numberLong": "2507890123"
+	  },
+	  "Nombres": "Gabriel",
+	  "Apellidos": "Torres Castro",
+	  "Celular": {
+		"$numberLong": "3902109876"
+	  },
+	  "Edad": 29,
+	  "Nacionalidad": "Venezolana",
+	  "Equipo": "Atlético Costeños",
+	  "Ciudad": "Cali",
+	  "Año": 2023
+	},
+	{
+	  "_id": 14,
+	  "Cedula": 2103456789,
+	  "Nombres": "Juan Carlos",
+	  "Apellidos": "Pérez Castro",
+	  "Celular": {
+		"$numberLong": "3566543210"
+	  },
+	  "Edad": 31,
+	  "Nacionalidad": "Mexicana",
+	  "Equipo": "Atlético Costeños",
+	  "Ciudad": "Cali",
+	  "Año": 2023
+	},
+	{
+	  "_id": 15,
+	  "Cedula": {
+		"$numberLong": "2608901234"
+	  },
+	  "Nombres": "Ricardo",
+	  "Apellidos": "Soto Martínez",
+	  "Celular": {
+		"$numberLong": "3209876543"
+	  },
+	  "Edad": 34,
+	  "Nacionalidad": "Colombiano",
+	  "Equipo": "Atlético Costeños",
+	  "Ciudad": "Medellín",
+	  "Año": 2023
+	},
+	{
+	  "_id": 16,
+	  "Cedula": {
+		"$numberLong": "2709012345"
+	  },
+	  "Nombres": "Daniel",
+	  "Apellidos": "Giraldo Vargas",
+	  "Celular": {
+		"$numberLong": "3118765432"
+	  },
+	  "Edad": 27,
+	  "Nacionalidad": "Colombiana",
+	  "Equipo": "Cafeteros FC",
+	  "Ciudad": "Bogotá",
+	  "Año": 2023
+	},
+	{
+	  "_id": 17,
+	  "Cedula": {
+		"$numberLong": "2801234567"
+	  },
+	  "Nombres": "Luis",
+	  "Apellidos": "Hernández Ramírez",
+	  "Celular": {
+		"$numberLong": "3227654321"
+	  },
+	  "Edad": 30,
+	  "Nacionalidad": "Mexicana",
+	  "Equipo": "Cafeteros FC",
+	  "Ciudad": "Manizales",
+	  "Año": 2023
+	},
+	{
+	  "_id": 18,
+	  "Cedula": {
+		"$numberLong": "2902345678"
+	  },
+	  "Nombres": "Juan",
+	  "Apellidos": "Castro Gómez",
+	  "Celular": {
+		"$numberLong": "3336543210"
+	  },
+	  "Edad": 31,
+	  "Nacionalidad": "Colombiano",
+	  "Equipo": "Cafeteros FC",
+	  "Ciudad": "Cali",
+	  "Año": 2023
+	},
+	{
+	  "_id": 19,
+	  "Cedula": {
+		"$numberLong": "3003456789"
+	  },
+	  "Nombres": "Javier",
+	  "Apellidos": "Rodríguez Sánchez",
+	  "Celular": {
+		"$numberLong": "3445432109"
+	  },
+	  "Edad": 28,
+	  "Nacionalidad": "Ecuatoriana",
+	  "Equipo": "Cafeteros FC",
+	  "Ciudad": "Barranquilla",
+	  "Año": 2023
+	},
+	{
+	  "_id": 20,
+	  "Cedula": {
+		"$numberLong": "3104567890"
+	  },
+	  "Nombres": "Héctor",
+	  "Celular": {
+		"$numberLong": "3554321098"
+	  },
+	  "Apellidos": "Pérez Vargas",
+	  "Edad": 33,
+	  "Nacionalidad": "Colombiano",
+	  "Equipo": "Cafeteros FC",
+	  "Ciudad": "Bogotá",
+	  "Año": 2023
+	},
+	{
+	  "_id": 21,
+	  "Cedula": {
+		"$numberLong": "3205678901"
+	  },
+	  "Nombres": "Francisco",
+	  "Apellidos": "González Torres",
+	  "Celular": {
+		"$numberLong": "3663210987"
+	  },
+	  "Edad": 29,
+	  "Nacionalidad": "Venezolana",
+	  "Equipo": "Pacífico United",
+	  "Ciudad": "Medellín",
+	  "Año": 2023
+	},
+	{
+	  "_id": 22,
+	  "Cedula": {
+		"$numberLong": "3306789012"
+	  },
+	  "Nombres": "Rafael",
+	  "Apellidos": "Martínez Gómez",
+	  "Celular": {
+		"$numberLong": "3772109876"
+	  },
+	  "Edad": 32,
+	  "Nacionalidad": "Colombiano",
+	  "Equipo": "Pacífico United",
+	  "Ciudad": "Barranquilla",
+	  "Año": 2023
+	},
+	{
+	  "_id": 23,
+	  "Cedula": {
+		"$numberLong": "3407890123"
+	  },
+	  "Nombres": "Federico",
+	  "Apellidos": "Gonzales Prieto",
+	  "Celular": {
+		"$numberLong": "3881098765"
+	  },
+	  "Edad": 26,
+	  "Nacionalidad": "Ecuatoriano",
+	  "Equipo": "Pacífico United",
+	  "Ciudad": "Manizales",
+	  "Año": 2023
+	},
+	{
+	  "_id": 24,
+	  "Cedula": {
+		"$numberLong": "3407890123"
+	  },
+	  "Nombres": "Jose Luis",
+	  "Apellidos": "Diaz Zuares",
+	  "Celular": {
+		"$numberLong": "3881098765"
+	  },
+	  "Edad": 26,
+	  "Nacionalidad": "Mexicana",
+	  "Equipo": "Pacífico United",
+	  "Ciudad": "Manizales",
+	  "Año": 2023
+	},
+	{
+	  "_id": 25,
+	  "Cedula": {
+		"$numberLong": "3407890123"
+	  },
+	  "Nombres": "Martin",
+	  "Apellidos": "Romero Sanchez",
+	  "Celular": {
+		"$numberLong": "3881098765"
+	  },
+	  "Edad": 26,
+	  "Nacionalidad": "Colombiana",
+	  "Equipo": "Pacífico United",
+	  "Ciudad": "Manizales",
+	  "Año": 2023
+	}
+
+]

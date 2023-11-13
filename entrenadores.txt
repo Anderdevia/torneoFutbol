@@ -1,0 +1,52 @@
+[
+  {
+    "_id": 26,
+    "Cedula": 3609012345,
+    "Nombres": "Dilan Esteban",
+    "Celular": 3203423349,
+    "Apellidos": "Jimenez Gutierrez",
+    "Edad": 45,
+    "Nacionalidad": "Colombiano",
+    "Equipo": "Tigres FC"
+  },
+  {
+    "_id": 36,
+    "Cedula": 4609012345,
+    "Nombres": "Carlos Andrés",
+    "Celular": 3301234567,
+    "Apellidos": "Ramírez Gómez",
+    "Edad": 55,
+    "Nacionalidad": "Colombiano",
+    "Equipo": "Atlético Costeños"
+  },
+  {
+    "_id": 41,
+    "Cedula": 5105678901,
+    "Nombres": "Alejandro",
+    "Celular": 3559876543,
+    "Apellidos": "López Vargas",
+    "Edad": 48,
+    "Nacionalidad": "Colombiana",
+    "Equipo": "Cafeteros FC"
+  },
+  {
+    "_id": 46,
+    "Cedula": 5601234567,
+    "Nombres": "Luis Felipe",
+    "Celular": 3106789012,
+    "Apellidos": "Gómez Soto",
+    "Edad": 42,
+    "Nacionalidad": "Colombiano",
+    "Equipo": "Pacífico United"
+  },
+  {
+    "_id": 51,
+    "Cedula": 6107890123,
+    "Nombres": "Santiago",
+    "Celular": 3659012345,
+    "Apellidos": "Martínez Ramírez",
+    "Edad": 50,
+    "Nacionalidad": "Colombiano",
+    "Equipo": "Rayos de Medellín"
+  }
+]
